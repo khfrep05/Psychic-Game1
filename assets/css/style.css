@@ -1,0 +1,60 @@
+body {
+background-color: #cc0066;
+margin: 0;
+background-image: url(../images/psychic.jpg);
+background-size: 457px;;
+}
+
+.container	{width: 960px;	
+	margin: 0 auto;
+}
+
+
+footer {
+	background-color: #cc0066; 
+	text-align: center; 
+	color: white;
+ 	position: absolute; 
+ 	border-top: 2px solid black;
+ 	right: 0;
+ 	bottom: 0;
+ 	left: 0;
+  	padding: 1rem 0;
+}
+
+p { 
+	color: black;
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.header-name {
+	text-align: center;
+	color: #00FF00;
+	margin-top: 0px;
+	padding: 10px;
+	border-bottom: 2px solid black;
+}
+
+header {
+	background-color: #cc0066;
+	padding: 0px;
+	width: 100%
+	font-size: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+} 
+
+.play {
+	width: 700px;
+	height: 593px;
+	background-color: white;
+	margin: -21px auto;
+	overflow: hidden;
+}
+
+.play {
+	
+	
+}
